@@ -26,7 +26,7 @@ Each project demonstrates different aspects of working with data — from cleani
 | Project | Description | Link |
 |---------|-------------|------|
 | Sales Data Analysis Dashboard | An interactive dashboard analyzing sales performance and KPIs. | [View Project](https://github.com/Usha127/DA-Projects---Power-BI/tree/master/Sales%20Data%20Analysis) |
-| Bank Churning Data Analysis | Bank Churning Data Analysis and Visualization through various charts. | [View Project](https://github.com/Usha127/DA-Projects---Power-BI/tree/master/Sales%20Data%20Analysis) |
+| Bank Churning Data Analysis | Bank Churning Data Analysis and Visualization through various charts. | [View Project](https://github.com/Usha127/Portfolio-Projects/tree/master/BankChurningDataAnalysis) |
 
 
 > *More projects coming soon...*
