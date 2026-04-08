@@ -1,4 +1,6 @@
-# 📊 Power BI Portfolio Projects and Python Projects
+# 📊 Power BI Portfolio Projects 
+# 📊 Python Projects
+# 📊 Advance SQL Projects
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?style=for-the-badge&logo=powerbi)
 ![Analytics](https://img.shields.io/badge/Analytics-Business%20Intelligence-blue?style=for-the-badge&logo=databricks)
